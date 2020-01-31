@@ -1,0 +1,46 @@
+Makinas-Scrap-5
+{0} (Lv.{1})\n{2}\n{3}\n{4}\n{5:#.#}BPM, {6} Notes, Layout: {7}\n{8}
+Song Name\nArtist\nGenre\nLevel\nBPM
+Options
+Auto Mode
+Note Speed
+Note layouts
+Upper Deck
+Lower Deck
+Unused
+* Drag the channel numbers to reorder and/or enable/disable them.\n* Click on the button below channel numbers to configure key mapping.
+Presets
+Default
+Reset
+Edit Keycode for {0}
+Done
+Now Loading
+{0} / {1}
+{0}\n{1}
+Pause
+Result
+Score
+Retart
+Back
+Replay
+Continue
+Quit
+HERE
+{0:0.0}BPM \t{1}POLY \tACCU.{2:0.0}MS \t{3:0.0}FPS
+Start!
+Language
+Judgement Mode
+Normal\nTight\nCompetition-Free
+<size=28><color=#FFFF00FF>Pass!</color></size>
+<size=28><color=#8800FFFF>Fail!</color></size>
+Game Mode
+BananaBeats Original\nBMS Classic
+Coloring Mode
+No Coloring\nTiming\nChannel\nBeats (Experimental)
+Player Best\nMax Score: {0} <size=28>{4}</size>\nMax Combos: {1}\nPlay Count: {2}\nLast Played: {3}
+Enable Background Animation
+Enable Detune Effect (Detune when the note is not accurate)
+Dynamic change note speed depends on BPM
+On screen note limit: (Unlimited / less <--> more)
+Max. Combos
+Crystal Quality
